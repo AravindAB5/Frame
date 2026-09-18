@@ -5,9 +5,6 @@ pipeline in real time, then explore the result on a synchronized, multi-track in
 timeline — scene changes, chapters, OCR text, audio events, speaker changes, and your own manual
 markers, all clickable and filterable.
 
-Built as a portfolio project in two phases: **Phase 1** is the full, production-shaped
-implementation (this README describes it); **Phase 2** ([docs/ARCHITECTURE.md](docs/ARCHITECTURE.md))
-is a deep-dive into how it works and why, written for interview prep.
 
 ## Quickstart
 
